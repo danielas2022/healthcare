@@ -40,7 +40,7 @@ export default function BaseLayout() {
     <div className="bg-base-100 text-slate-600 dark:text-slate-400">
       <header className="fixed bg-base-100 px-4 lg:px-8 top-0 z-30 flex h-16 w-full justify-between items-center bg-opacity-90 backdrop-blur transition-all duration-100 [transform:translate3d(0,0,0)] shadow-sm dark:shadow-slate-500/20">
         <img
-          alt="GPTHub"
+          alt="GPTsHealthcare"
           className="w-10 h-10 select-none" src="/gpthub.png"
           onClick={() => navigate('/')}
         />
@@ -55,7 +55,7 @@ export default function BaseLayout() {
             target="_blank"
             rel="noopener noreferrer"
             className="flex w-[28px] h-[28px]"
-            title="GitHub"
+            title="GPTs Healthcare"
           >
             <GitHubIcon size={28} />
           </a>
