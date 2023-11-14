@@ -51,7 +51,7 @@ export default function BaseLayout() {
             <MoonIcon className="swap-on" size={22} />
           </label>
           <a
-            href="https://github.com/lencx/gpthub"
+            href="https://github.com/danielas2022/healthcare"
             target="_blank"
             rel="noopener noreferrer"
             className="flex w-[28px] h-[28px]"
