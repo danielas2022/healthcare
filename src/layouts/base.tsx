@@ -50,10 +50,9 @@ export default function BaseLayout() {
             <SunIcon className="swap-off" size={22} />
             <MoonIcon className="swap-on" size={22} />
           </label>
-          <a
-           className="flex w-[28px] h-[28px]"
-            title="GPTs Healthcare"
-          ><GitHubIcon size={28} />
+          <div className="flex w-[28px] h-[28px]" title="GPTs Healthcare">
+  <GitHubIcon size={28} />
+</div>
           </a>
           </a>
         </div>
