@@ -51,13 +51,9 @@ export default function BaseLayout() {
             <MoonIcon className="swap-on" size={22} />
           </label>
           <a
-            href="https://github.com/danielas2022/healthcare"
-            target="_blank"
-            rel="noopener noreferrer"
-            className="flex w-[28px] h-[28px]"
+           className="flex w-[28px] h-[28px]"
             title="GPTs Healthcare"
-          >
-            <GitHubIcon size={28} />
+          ><GitHubIcon size={28} />
           </a>
           </a>
         </div>
