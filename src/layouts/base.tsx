@@ -59,19 +59,6 @@ export default function BaseLayout() {
           >
             <GitHubIcon size={28} />
           </a>
-          <a
-            href="https://chat.openai.com/g/g-e2bIguMqf-findgpt"
-            target="_blank"
-            rel="noopener noreferrer"
-            className="block w-[26px] h-[26px] border border-slate-300 rounded-full"
-            title="FindGPT by lencx"
-          >
-            <img
-              alt="FindGPT"
-              className="select-none rounded-full w-[26px]" src="/findgpt.png"
-              onClick={() => navigate('/')}
-            />
-            />
           </a>
         </div>
       </header>
