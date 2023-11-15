@@ -71,11 +71,6 @@ export default function BaseLayout() {
               className="select-none rounded-full w-[26px]" src="/findgpt.png"
               onClick={() => navigate('/')}
             />
-          </a>
-          <a href="https://www.producthunt.com/posts/gpthub?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-gpthub" target="_blank">
-            <img
-              src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=424710&theme=light" alt="GPTHub | Product Hunt"
-              className="w-[140px]"
             />
           </a>
         </div>
