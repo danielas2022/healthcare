@@ -51,10 +51,8 @@ export default function BaseLayout() {
             <MoonIcon className="swap-on" size={22} />
           </label>
           <div className="flex w-[28px] h-[28px]" title="GPTs Healthcare">
-  <GitHubIcon size={28} />
-</div>
-          </a>
-          </a>
+            <GitHubIcon size={28} />
+          </div>
         </div>
       </header>
       <main className="px-6 pt-[100px] lg:max-w-screen-2xl m-auto">
